@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/victorokiki" target="blank"><img src="https://img.shields.io/twitter/follow/victorokiki?logo=twitter&style=for-the-badge" alt="victorokiki" /></a> </p>
 
-- 🔭 I’m currently working on [FESAC FOUNDATION](www.fesaccharityfoundation.org)
+- 🔭 I’m currently working on [Fesac Foundation](www.fesaccharityfoundation.org)
 
-- 🌱 I’m currently learning **New frameworks and**
+- 🌱 I’m currently learning **New frameworks**
 
 - 👨‍💻 All of my projects are available at [https://okikiportfolio.netlify.app/](https://okikiportfolio.netlify.app/)
 
