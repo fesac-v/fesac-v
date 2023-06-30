@@ -1,10 +1,4 @@
-
-
-
-
-
-
-
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Okikioluwa Victor</h1>
 <h3 align="center">Devops | UIUX | Frontend Developer</h3>
 <img  align="center" alt="code" width="auto" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1800&t=st=1688092005~exp=1688092605~hmac=23d79f122b1e556a080e94c8e4cebd48e1a0845b62254eee24dedfb889c50c94">
