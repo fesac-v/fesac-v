@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://okikiportfolio.netlify.app/Resume](https://okikiportfolio.netlify.app/Resume)
 
-- ⚡ Fun fact **i love to play PUBG and also a Game Tester**
+- ⚡ Fun fact **i love to play PUBG {fesac10} and also a Game Tester**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
